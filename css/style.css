@@ -338,6 +338,7 @@ strong {
   color: var(--col-text);
   letter-spacing: -0.01em;
   transition: color var(--dur-med) var(--ease);
+  white-space: nowrap;
 }
 
 .nav-logo-sub {
@@ -347,13 +348,14 @@ strong {
   color: var(--col-muted);
   letter-spacing: 0.03em;
   transition: color var(--dur-med) var(--ease);
+  white-space: nowrap;
 }
 
 /* Desktop links */
 .nav-links {
   display: none;
   align-items: center;
-  gap: var(--space-sm);
+  gap: 0.6rem;
 }
 
 @media (min-width: 768px) {
@@ -368,18 +370,19 @@ strong {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--col-text);
-  padding: 0.35rem 0.75rem;
+  padding: 0.3rem 0.65rem;
   border-radius: 4px;
   transition: color var(--dur-fast), background var(--dur-fast);
   position: relative;
+  white-space: nowrap;
 }
 
 .nav-link::after {
   content: '';
   position: absolute;
   bottom: -2px;
-  left: 0.75rem;
-  right: 0.75rem;
+  left: 0.65rem;
+  right: 0.65rem;
   height: 2px;
   background: var(--col-rust);
   transform: scaleX(0);
