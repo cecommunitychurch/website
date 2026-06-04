@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>What's On — Coopers Edge Community Church</title>
   <meta name="description" content="Find out what's happening at Coopers Edge Community Church — Sunday services, Coopers Kids, The Ark Toddler Group, prayer meetings, and more.">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; frame-src https://www.google.com; connect-src 'none'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; frame-src https://www.google.com; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -79,6 +79,21 @@
         </div>
       </div>
     </div>
+
+    <!-- ====================================================
+         Upcoming Events (ChurchSuite)
+    ===================================================== -->
+    <section class="section" id="upcoming-events" aria-labelledby="upcoming-heading">
+      <div class="container">
+        <div class="section-header">
+          <span class="eyebrow reveal">From the calendar</span>
+          <h2 id="upcoming-heading" class="reveal reveal-delay-1">Upcoming events</h2>
+        </div>
+        <div id="events-container">
+          <p style="color:var(--col-muted)">Loading events&hellip;</p>
+        </div>
+      </div>
+    </section>
 
     <!-- ====================================================
          Regular Activities
@@ -442,5 +457,6 @@
   </footer>
 
   <script src="js/main.js"></script>
+  <script src="js/events.js" defer></script>
 </body>
 </html>

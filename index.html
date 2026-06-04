@@ -8,7 +8,7 @@
   <meta property="og:title" content="Coopers Edge Community Church">
   <meta property="og:description" content="A place where people of all ages can belong, grow and flourish. Join us every Sunday at 4pm.">
   <meta property="og:type" content="website">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; frame-src https://www.google.com; connect-src 'none'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; frame-src https://www.google.com; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -192,26 +192,33 @@
 
         <div class="events-grid">
           <div class="event-card reveal">
-            <div class="event-icon">🙏</div>
+            <div class="event-icon sage">⭐</div>
             <h4>Coopers Kids</h4>
             <p>Vibrant children's ministry running during Sunday gatherings, led by dedicated volunteer teams for all ages.</p>
             <div class="event-when">Every Sunday</div>
           </div>
 
           <div class="event-card reveal reveal-delay-1">
-            <div class="event-icon sage">🧸</div>
+            <div class="event-icon tan">🌈</div>
             <h4>The Ark Toddler Group</h4>
             <p>Playtime, snacks, Bible stories, and songs for families with toddlers. A warm space to connect with other parents.</p>
             <div class="event-when">Every Wednesday</div>
           </div>
 
-
           <div class="event-card reveal reveal-delay-3">
-            <div class="event-icon taupe">💬</div>
+            <div class="event-icon taupe">🙏</div>
             <h4>Prayer Meetings</h4>
             <p>Relaxed, open prayer gatherings on the 1st Wednesday (online) of each month.</p>
             <div class="event-when">Monthly</div>
           </div>
+        </div>
+
+        <div class="this-week-wrapper reveal" style="margin-top: var(--space-xl);">
+          <div style="display:flex; align-items:center; gap:var(--space-md); margin-bottom:var(--space-lg);">
+            <span class="eyebrow" style="white-space:nowrap;">This week</span>
+            <div style="flex:1; height:1px; background:var(--col-line);" aria-hidden="true"></div>
+          </div>
+          <div id="home-events-container"></div>
         </div>
 
         <div class="events-footer reveal">
@@ -402,5 +409,6 @@
   </footer>
 
   <script src="js/main.js"></script>
+  <script src="js/events.js" defer></script>
 </body>
 </html>
