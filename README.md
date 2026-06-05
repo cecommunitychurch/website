@@ -213,4 +213,4 @@ All changes are recorded in Git history. In GitHub:
 
 ---
 
-*Last updated: June 2026. For questions about the website, contact the church office at info@cecommunitychurch.com.*
+*Last updated: June 2026. For questions about the website, contact the church office at admin@cecommunitychurch.com.*
