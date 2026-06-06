@@ -24,7 +24,7 @@ except ImportError:
 EMBED_URL = "https://cecommunitychurch.churchsuite.com/embed/calendar/json"
 
 today = date.today()
-date_end = today + timedelta(days=90)
+date_end = today + timedelta(days=121)
 
 print(f"Fetching ChurchSuite events for {today} → {date_end}...")
 
