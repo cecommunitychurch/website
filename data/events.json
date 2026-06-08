@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-06-07T00:00:00Z",
+  "lastUpdated": "2026-06-08T00:00:00Z",
   "events": [
-    {
-      "id": "218",
-      "title": "Gathering Sunday",
-      "date": "2026-06-07",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Hear a story about Jesus, discover that story for ourselves, and enjoy a hot chocolate!\n\nFull of fun and energy, experience Church in a new way that is accessible to the young and beyond.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": ""
-    },
     {
       "id": "225",
       "title": "Equip Sunday",
