@@ -922,7 +922,7 @@ strong {
 .event-meta {
   flex: none;
   font-size: 0.82rem;
-  margin-top: var(--space-sm);
+  margin-top: var(--space-xs);
 }
 
 .events-footer {
