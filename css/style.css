@@ -896,7 +896,7 @@ strong {
 /* ---- Dynamic event card header (JS-generated cards only) -- */
 .event-card-header {
   /* Bleed to card edges past the card's own padding */
-  margin: calc(-1 * var(--space-md)) calc(-1 * var(--space-md)) var(--space-md);
+  margin: calc(-1 * var(--space-md)) calc(-1 * var(--space-md)) var(--space-xs);
   height: 100px;
   flex-shrink: 0;
   display: flex;
