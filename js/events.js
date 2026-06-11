@@ -228,7 +228,6 @@
       '<p class="event-when">' + whenStr + '</p>' +
       labelHtml +
       '<h4>' + esc(ev.title) + '</h4>' +
-      '<p class="event-desc">' + esc(ev.description) + '</p>' +
       (locStr ? '<p class="event-meta">' + locStr + '</p>' : '') +
       '</div>';
   }
