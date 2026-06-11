@@ -203,7 +203,6 @@
     var start   = fmtTime(ev.startTime);
     var end     = fmtTime(ev.endTime);
     var timeStr = start ? (end ? start + ' – ' + end : start) : '';
-    var meta    = [timeStr, ev.location ? esc(ev.location) : ''].filter(Boolean).join(' · ');
     var whenStr = fmtDate(ev.date) + (timeStr ? '  ·  ' + timeStr : '');
     var locStr  = ev.location ? '📍  ' + esc(ev.location) : '';
 
