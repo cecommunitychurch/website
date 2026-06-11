@@ -204,6 +204,8 @@
     var end     = fmtTime(ev.endTime);
     var timeStr = start ? (end ? start + ' – ' + end : start) : '';
     var meta    = [timeStr, ev.location ? esc(ev.location) : ''].filter(Boolean).join(' · ');
+    var whenStr = fmtDate(ev.date) + (timeStr ? '  ·  ' + timeStr : '');
+    var locStr  = ev.location ? '📍  ' + esc(ev.location) : '';
 
     var headerInner, headerStyle;
     if (ev.imageUrl) {
@@ -224,11 +226,11 @@
 
     return '<div class="event-card" data-event-id="' + esc(String(ev.id)) + '" tabindex="0" role="button" aria-label="' + esc(ev.title) + ', ' + esc(fmtDate(ev.date)) + '">' +
       '<div class="event-card-header" style="' + headerStyle + '" aria-hidden="true">' + headerInner + '</div>' +
-      '<p class="event-when">' + fmtDate(ev.date) + '</p>' +
+      '<p class="event-when">' + whenStr + '</p>' +
       labelHtml +
       '<h4>' + esc(ev.title) + '</h4>' +
       '<p class="event-desc">' + esc(ev.description) + '</p>' +
-      (meta ? '<p class="event-meta">' + meta + '</p>' : '') +
+      (locStr ? '<p class="event-meta">' + locStr + '</p>' : '') +
       '</div>';
   }
 
