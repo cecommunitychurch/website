@@ -832,7 +832,7 @@ strong {
   background: var(--col-white);
   border: 1px solid var(--col-line);
   border-radius: var(--radius-lg);
-  padding: var(--space-lg);
+  padding: 1.5rem;
   box-shadow: var(--shadow-sm);
   transition: box-shadow var(--dur-med) var(--ease), transform var(--dur-med) var(--ease);
   display: flex;
@@ -896,8 +896,8 @@ strong {
 /* ---- Dynamic event card header (JS-generated cards only) -- */
 .event-card-header {
   /* Bleed to card edges past the card's own padding */
-  margin: calc(-1 * var(--space-lg)) calc(-1 * var(--space-lg)) var(--space-md);
-  height: 120px;
+  margin: calc(-1 * 1.5rem) calc(-1 * 1.5rem) var(--space-md);
+  height: 100px;
   flex-shrink: 0;
   display: flex;
   align-items: center;
