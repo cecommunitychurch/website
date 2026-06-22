@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T00:00:00Z",
+  "lastUpdated": "2026-06-22T00:00:00Z",
   "events": [
-    {
-      "id": "242",
-      "title": "Celebration Sunday",
-      "date": "2026-06-21",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "We meet to worship, share good news stories, and celebrate all that God is doing in our lives and around Coopers Edge.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": ""
-    },
     {
       "id": "263",
       "title": "Youth Pizza Social",
