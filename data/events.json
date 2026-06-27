@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T00:00:00Z",
+  "lastUpdated": "2026-06-27T00:00:00Z",
   "events": [
-    {
-      "id": "263",
-      "title": "Youth Pizza Social",
-      "date": "2026-06-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": "The Vicarage",
-      "description": "🍕 Youth of Coopers Edge: join us for a pizza night!\n\nWe'll meet at the Vicarage from 7pm.",
-      "category": "general",
-      "categoryLabel": "Youth",
-      "categoryColour": "#fab005",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/263_9iVpD4Od_lg.png"
-    },
     {
       "id": "232",
       "title": "Equip Sunday",
