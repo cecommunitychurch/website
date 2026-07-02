@@ -51,6 +51,10 @@
     return /^#[0-9a-fA-F]{3,8}$/.test(String(c || '')) ? c : '';
   }
 
+  function safeSignupUrl(u) {
+    return (typeof u === 'string' && u.indexOf('https://cecommunitychurch.churchsuite.com/') === 0) ? u : '';
+  }
+
   // ---- Modal -------------------------------------------
 
   var eventMap   = {};   // id → event object, populated by renderCard
@@ -159,6 +163,22 @@
       locP.style.display = '';
     } else {
       locP.style.display = 'none';
+    }
+
+    // Action button — sign-up link when the event has public sign-up, else mailto.
+    // The button is reused across events, so reset both branches every open.
+    var contactLink = el.querySelector('.modal-actions a');
+    var signup = safeSignupUrl(ev.signupUrl);
+    if (signup) {
+      contactLink.href = signup;
+      contactLink.textContent = 'Sign up';
+      contactLink.target = '_blank';
+      contactLink.rel = 'noopener';
+    } else {
+      contactLink.href = 'mailto:info@cecommunitychurch.com';
+      contactLink.textContent = 'Get in touch';
+      contactLink.removeAttribute('target');
+      contactLink.removeAttribute('rel');
     }
 
     el.classList.add('open');

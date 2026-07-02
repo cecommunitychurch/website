@@ -122,6 +122,25 @@ def parse_time(dt_str):
     return str(dt_str).split(' ')[1][:5]
 
 
+def parse_signup_url(event):
+    """Return the public ChurchSuite sign-up URL if public sign-up is enabled, else ''."""
+    so = event.get('signup_options')
+    if not isinstance(so, dict):
+        return ''
+    public = so.get('public') if isinstance(so.get('public'), dict) else {}
+    enabled = str(so.get('signup_enabled', '')) == '1' and str(public.get('enabled', '')) == '1'
+    if not enabled:
+        return ''
+    tickets = so.get('tickets') if isinstance(so.get('tickets'), dict) else {}
+    url = tickets.get('url') or ''
+    if not url:
+        ident = event.get('identifier')
+        if ident:
+            url = 'https://cecommunitychurch.churchsuite.com/events/' + str(ident)
+    # Only trust our own domain
+    return url if str(url).startswith('https://cecommunitychurch.churchsuite.com/') else ''
+
+
 events_out = []
 for e in events_raw:
     dt_start = e.get('datetime_start', '')
@@ -142,6 +161,7 @@ for e in events_raw:
         "categoryLabel": (cat.get('name') or '').strip(),
         "categoryColour": _safe_colour((cat.get('color') or cat.get('colour') or '')),
         "imageUrl": parse_image(e),
+        "signupUrl": parse_signup_url(e),
     })
 
 events_out.sort(key=lambda x: x['date'])
