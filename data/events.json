@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T00:00:00Z",
+  "lastUpdated": "2026-07-04T00:00:00Z",
   "events": [
-    {
-      "id": "265",
-      "title": "The Big Bash",
-      "date": "2026-07-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": "Kendal Road Baptist Church",
-      "description": "This is a large youth event with many church youth groups coming together to have some fun!\n\nThe first hour includes a BBQ with ice cream, games and various activities. The second hour will be a space for worship and a talk.\n\nAnd it's all free!",
-      "category": "general",
-      "categoryLabel": "Youth",
-      "categoryColour": "#fab005",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/265_20fO0QpR_lg.jpg",
-      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/rnlehd45"
-    },
     {
       "id": "264",
       "title": "Embrace Vicarage Breakfast",
