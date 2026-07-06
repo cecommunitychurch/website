@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T00:00:00Z",
+  "lastUpdated": "2026-07-06T00:00:00Z",
   "events": [
-    {
-      "id": "219",
-      "title": "Gathering Sunday",
-      "date": "2026-07-05",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Hear a story about Jesus, discover that story for ourselves, and enjoy a hot chocolate!\n\nFull of fun and energy, experience Church in a new way that is accessible to the young and beyond.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "267",
       "title": "The Ark Toddler Group",
