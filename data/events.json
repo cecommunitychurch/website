@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T00:00:00Z",
+  "lastUpdated": "2026-07-11T00:00:00Z",
   "events": [
-    {
-      "id": "260",
-      "title": "Men's Curry Night",
-      "date": "2026-07-10",
-      "startTime": "19:30",
-      "endTime": "22:00",
-      "location": "The Vicarage",
-      "description": "Come and enjoy a relaxed evening of takeaway curry with the men of Coopers Edge Community Church.\n\nLet us know what you'd like to order from Polash ahead of time, and we'll pick it up and have everything ready for 7:30pm. Drinks will be provided.\n\nPlease bring cash to pay for the meal you've selected.\n\nClick here for the Polash menu",
-      "category": "general",
-      "categoryLabel": "General",
-      "categoryColour": "#062f6a",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/260_M3VlNTxO_lg.png",
-      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/tfnntsbr"
-    },
     {
       "id": "226",
       "title": "Equip Sunday",
