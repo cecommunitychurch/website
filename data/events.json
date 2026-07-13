@@ -44,17 +44,17 @@
       "signupUrl": ""
     },
     {
-      "id": "233",
-      "title": "Equip Sunday",
+      "id": "276",
+      "title": "New Wine Packing",
       "date": "2026-07-26",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Worship, prayer, and learning from God's Word.\n\nChildren's provision is provided for ages 3 to 11.\n\nAfterwards, we stay to fellowship, providing a light sandwich tea from 5pm.",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Prestbury Scout Hut",
+      "description": "Let's get everything ready for our church trip to New Wine!\n\nWhether or not you're coming, please come along, let the kids play and help us put up some large gazebos.\n\nPlease bring your own picnic tea.",
       "category": "sunday",
       "categoryLabel": "Sunday Service",
       "categoryColour": "#15aabf",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/276_mA9xwUK6_lg.png",
       "signupUrl": ""
     },
     {
@@ -72,20 +72,6 @@
       "signupUrl": ""
     },
     {
-      "id": "220",
-      "title": "Gathering Sunday",
-      "date": "2026-08-02",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Hear a story about Jesus, discover that story for ourselves, and enjoy a hot chocolate!\n\nFull of fun and energy, experience Church in a new way that is accessible to the young and beyond.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
-    {
       "id": "271",
       "title": "The Ark Toddler Group",
       "date": "2026-08-05",
@@ -100,17 +86,17 @@
       "signupUrl": ""
     },
     {
-      "id": "227",
-      "title": "Equip Sunday",
+      "id": "277",
+      "title": "Church in the Garden",
       "date": "2026-08-09",
       "startTime": "16:00",
       "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Worship, prayer, and learning from God's Word.\n\nChildren's provision is provided for ages 3 to 11.\n\nAfterwards, we stay to fellowship, providing a light sandwich tea from 5pm.",
+      "location": "Community Hall Garden",
+      "description": "A relaxed gathering outside. ☀️\n\nWe will hear a story from the Bible, have a craft available, and enjoy time together, ending with a picnic tea.",
       "category": "sunday",
       "categoryLabel": "Sunday Service",
       "categoryColour": "#15aabf",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/277_F66AEZWA_lg.png",
       "signupUrl": ""
     },
     {
@@ -128,17 +114,17 @@
       "signupUrl": ""
     },
     {
-      "id": "244",
-      "title": "Celebration Sunday",
+      "id": "278",
+      "title": "Church in the Garden",
       "date": "2026-08-16",
       "startTime": "16:00",
       "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "We meet to worship, share good news stories, and celebrate all that God is doing in our lives and around Coopers Edge.",
+      "location": "Community Hall Garden",
+      "description": "A relaxed gathering outside. ☀️\n\nWe will hear a story from the Bible, have a craft available, and enjoy time together, ending with a picnic tea.",
       "category": "sunday",
       "categoryLabel": "Sunday Service",
       "categoryColour": "#15aabf",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/277_F66AEZWA_lg.png",
       "signupUrl": ""
     },
     {
@@ -156,17 +142,17 @@
       "signupUrl": ""
     },
     {
-      "id": "234",
-      "title": "Equip Sunday",
+      "id": "279",
+      "title": "Church in the Garden",
       "date": "2026-08-23",
       "startTime": "16:00",
       "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Worship, prayer, and learning from God's Word.\n\nChildren's provision is provided for ages 3 to 11.\n\nAfterwards, we stay to fellowship, providing a light sandwich tea from 5pm.",
+      "location": "Community Hall Garden",
+      "description": "A relaxed gathering outside. ☀️\n\nWe will hear a story from the Bible, have a craft available, and enjoy time together, ending with a picnic tea.",
       "category": "sunday",
       "categoryLabel": "Sunday Service",
       "categoryColour": "#15aabf",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/277_F66AEZWA_lg.png",
       "signupUrl": ""
     },
     {
@@ -184,17 +170,17 @@
       "signupUrl": ""
     },
     {
-      "id": "237",
-      "title": "Equip Sunday",
+      "id": "280",
+      "title": "The Big Church Clean",
       "date": "2026-08-30",
       "startTime": "16:00",
       "endTime": "17:30",
       "location": "Community Centre",
-      "description": "",
+      "description": "Join us for our annual Big Church Clean! 🧹\n\nAs we prepare for another school year, let's come together to get everything ready.",
       "category": "sunday",
       "categoryLabel": "Sunday Service",
       "categoryColour": "#15aabf",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/280_FyzpUUKy_lg.png",
       "signupUrl": ""
     }
   ]
