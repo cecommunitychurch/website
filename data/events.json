@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T00:00:00Z",
+  "lastUpdated": "2026-07-13T00:00:00Z",
   "events": [
-    {
-      "id": "226",
-      "title": "Equip Sunday",
-      "date": "2026-07-12",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Worship, prayer, and learning from God's Word.\n\nChildren's provision is provided for ages 3 to 11.\n\nAfterwards, we stay to fellowship, providing a light sandwich tea from 5pm.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "268",
       "title": "The Ark Toddler Group",
