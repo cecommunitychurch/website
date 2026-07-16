@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T00:00:00Z",
+  "lastUpdated": "2026-07-16T00:00:00Z",
   "events": [
-    {
-      "id": "268",
-      "title": "The Ark Toddler Group",
-      "date": "2026-07-15",
-      "startTime": "09:30",
-      "endTime": "11:00",
-      "location": "Coopers Edge Community Centre",
-      "description": "This group is run by Coopers Edge Community Church and our hope is this will be a place of sanctuary, fun and belonging for the families of Coopers Edge.\n\nOur time together looks like:\n\n9.30am Doors open\n\n9.30-10.30am Free Play - help yourself to coffee!\n\n10.30am Tidy Up Time\n\n10.40am Song Time\n\n10.50am Snack and Bible Story",
-      "category": "toddler",
-      "categoryLabel": "General",
-      "categoryColour": "#062f6a",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/266_pEziOFch_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "243",
       "title": "Celebration Sunday",
