@@ -72,6 +72,20 @@
       "signupUrl": ""
     },
     {
+      "id": "295",
+      "title": "Prayer Meeting",
+      "date": "2026-09-02",
+      "startTime": "20:00",
+      "endTime": "20:40",
+      "location": "Zoom",
+      "description": "",
+      "category": "prayer",
+      "categoryLabel": "Church Meeting",
+      "categoryColour": "#7950f2",
+      "imageUrl": "",
+      "signupUrl": ""
+    },
+    {
       "id": "281",
       "title": "The Ark Toddler Group",
       "date": "2026-09-16",
@@ -125,6 +139,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "296",
+      "title": "Prayer Meeting",
+      "date": "2026-10-07",
+      "startTime": "20:00",
+      "endTime": "20:40",
+      "location": "Zoom",
+      "description": "",
+      "category": "prayer",
+      "categoryLabel": "Church Meeting",
+      "categoryColour": "#7950f2",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
