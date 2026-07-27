@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T00:00:00Z",
+  "lastUpdated": "2026-07-27T00:00:00Z",
   "events": [
-    {
-      "id": "276",
-      "title": "New Wine Packing",
-      "date": "2026-07-26",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": "Prestbury Scout Hut",
-      "description": "Let's get everything ready for our church trip to New Wine!\n\nWhether or not you're coming, please come along, let the kids play and help us put up some large gazebos.\n\nPlease bring your own picnic tea.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/276_mA9xwUK6_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "277",
       "title": "Church in the Garden",
