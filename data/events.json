@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T00:00:00Z",
+  "lastUpdated": "2026-08-17T00:00:00Z",
   "events": [
-    {
-      "id": "278",
-      "title": "Church in the Garden",
-      "date": "2026-08-16",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Hall Garden",
-      "description": "A relaxed gathering outside. ☀️\n\nWe will hear a story from the Bible, have a craft available, and enjoy time together, ending with a picnic tea.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/277_F66AEZWA_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "279",
       "title": "Church in the Garden",
@@ -209,6 +195,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "275",
+      "title": "Safeguarding Sunday",
+      "date": "2026-11-15",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Coopers Edge Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     }
   ]
