@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T00:00:00Z",
+  "lastUpdated": "2026-08-24T00:00:00Z",
   "events": [
-    {
-      "id": "279",
-      "title": "Church in the Garden",
-      "date": "2026-08-23",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Hall Garden",
-      "description": "A relaxed gathering outside. ☀️\n\nWe will hear a story from the Bible, have a craft available, and enjoy time together, ending with a picnic tea.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/277_F66AEZWA_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "280",
       "title": "The Big Church Clean",
