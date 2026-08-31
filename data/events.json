@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T00:00:00Z",
+  "lastUpdated": "2026-08-31T00:00:00Z",
   "events": [
-    {
-      "id": "280",
-      "title": "The Big Church Clean",
-      "date": "2026-08-30",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "Join us for our annual Big Church Clean! 🧹\n\nAs we prepare for another school year, let's come together to get everything ready.",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/280_FyzpUUKy_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "295",
       "title": "Prayer Meeting",
