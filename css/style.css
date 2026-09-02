@@ -869,6 +869,27 @@ strong {
   background: rgba(207, 202, 190, 0.3);
 }
 
+.event-icon img {
+  display: block;
+}
+
+/* Small "New" flag for recently launched activities */
+.badge-new {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.4rem;
+  padding: 0.12rem 0.5rem;
+  background: var(--col-rust);
+  color: var(--col-white);
+  border-radius: 100px;
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
 .event-card h4 {
   font-family: var(--font-serif);
   margin-bottom: 0.4rem;
@@ -1599,6 +1620,12 @@ strong {
   color: var(--col-rust);
   margin-top: 2px;
   flex-shrink: 0;
+}
+
+/* Logo mark sitting above an activity's eyebrow */
+.activity-mark {
+  display: block;
+  margin-bottom: var(--space-sm);
 }
 
 .activity-meta-text {
