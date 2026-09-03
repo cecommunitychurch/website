@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T00:00:00Z",
+  "lastUpdated": "2026-09-03T00:00:00Z",
   "events": [
-    {
-      "id": "295",
-      "title": "Prayer Meeting",
-      "date": "2026-09-02",
-      "startTime": "20:00",
-      "endTime": "20:40",
-      "location": "Zoom",
-      "description": "Join us for our monthly prayer meetings to pray for Coopers Edge Community Church.\n\nZoom ID 854 3910 3322 Passcode 0000",
-      "category": "prayer",
-      "categoryLabel": "Church Meeting",
-      "categoryColour": "#7950f2",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/295_7wFPmmv9_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "281",
       "title": "The Ark Toddler Group",
@@ -209,6 +195,34 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "292",
+      "title": "The Ark Toddler Group",
+      "date": "2026-12-02",
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "location": "Coopers Edge Community Centre",
+      "description": "This group is run by Coopers Edge Community Church and our hope is this will be a place of sanctuary, fun and belonging for the families of Coopers Edge.\n\nOur time together looks like:\n\n9.30am Doors open\n\n9.30-10.30am Free Play - help yourself to coffee!\n\n10.30am Tidy Up Time\n\n10.40am Song Time\n\n10.50am Snack and Bible Story",
+      "category": "toddler",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "298",
+      "title": "Prayer Meeting",
+      "date": "2026-12-02",
+      "startTime": "20:00",
+      "endTime": "20:40",
+      "location": "Zoom",
+      "description": "Join us for our monthly prayer meetings to pray for Coopers Edge Community Church.\n\nZoom ID 854 3910 3322 Passcode 0000",
+      "category": "prayer",
+      "categoryLabel": "Church Meeting",
+      "categoryColour": "#7950f2",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/295_7wFPmmv9_lg.png",
       "signupUrl": ""
     }
   ]
