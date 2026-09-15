@@ -252,6 +252,95 @@
       '</div>';
   }
 
+
+  // ---- Structured data (SEO) ---------------------------
+  // Emits schema.org Event JSON-LD for the ChurchSuite feed so Google can
+  // surface dated event rich results. Written at runtime; Google renders JS
+  // before extracting structured data. type="application/ld+json" is a data
+  // block, not executable script, so the script-src 'self' CSP allows it.
+
+  var SITE = 'https://cecommunitychurch.com';
+
+  function isVirtual(loc) {
+    return /zoom|online|teams/i.test(String(loc || ''));
+  }
+
+  // schema.org accepts a local ISO date-time with no offset; the venue's local
+  // time is assumed. Avoids getting BST/GMT wrong across the DST boundary.
+  function isoLocal(date, time) {
+    return time ? date + 'T' + time + ':00' : date;
+  }
+
+  function eventSchema(ev) {
+    var node = {
+      '@type': 'Event',
+      '@id': SITE + '/whats-on.html#event-' + ev.id,
+      'name': ev.title,
+      'startDate': isoLocal(ev.date, ev.startTime),
+      'eventStatus': 'https://schema.org/EventScheduled',
+      'organizer': {
+        '@type': 'Organization',
+        'name': 'Coopers Edge Community Church',
+        'url': SITE
+      },
+      'url': SITE + '/whats-on.html'
+    };
+
+    if (ev.endTime) node.endDate = isoLocal(ev.date, ev.endTime);
+    if (ev.description) node.description = String(ev.description).replace(/\s+/g, ' ').trim();
+    if (ev.imageUrl) node.image = ev.imageUrl;
+
+    if (isVirtual(ev.location)) {
+      node.eventAttendanceMode = 'https://schema.org/OnlineEventAttendanceMode';
+      node.location = { '@type': 'VirtualLocation', 'url': SITE + '/whats-on.html' };
+    } else {
+      node.eventAttendanceMode = 'https://schema.org/OfflineEventAttendanceMode';
+      node.location = {
+        '@type': 'Place',
+        'name': ev.location || '@TheEdge Community Centre',
+        'address': {
+          '@type': 'PostalAddress',
+          'streetAddress': 'Typhoon Way',
+          'addressLocality': 'Brockworth',
+          'addressRegion': 'Gloucestershire',
+          'postalCode': 'GL3 4DY',
+          'addressCountry': 'GB'
+        }
+      };
+    }
+
+    var signup = safeSignupUrl(ev.signupUrl);
+    if (signup) {
+      node.offers = {
+        '@type': 'Offer',
+        'url': signup,
+        'availability': 'https://schema.org/InStock'
+      };
+    } else {
+      node.isAccessibleForFree = true;
+    }
+
+    return node;
+  }
+
+  var schemaInjected = false;
+
+  function injectEventSchema(evs) {
+    if (schemaInjected || !evs || !evs.length) return;
+    schemaInjected = true;
+
+    var payload = {
+      '@context': 'https://schema.org',
+      '@graph': evs.slice(0, 25).map(eventSchema)
+    };
+
+    var tag = document.createElement('script');
+    tag.type = 'application/ld+json';
+    // Prevent a stray "</script>" inside event text from closing the block.
+    tag.textContent = JSON.stringify(payload).replace(/</g, '\\u003c');
+    document.head.appendChild(tag);
+  }
+
   // ---- Render functions --------------------------------
 
   function renderUpcomingEvents(containerId, limit) {
@@ -292,6 +381,8 @@
           el.innerHTML = '<p style="color:var(--col-muted)">No upcoming events right now — check back soon.</p>';
           return;
         }
+
+        injectEventSchema(evs);
 
         var monthKeys = [], months = {};
         evs.forEach(function (e) {
