@@ -2,6 +2,20 @@
   "lastUpdated": "2026-09-17T00:00:00Z",
   "events": [
     {
+      "id": "306",
+      "title": "Sunday Service",
+      "date": "2026-09-20",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
+      "signupUrl": ""
+    },
+    {
       "id": "282",
       "title": "The Ark Toddler Group",
       "date": "2026-09-23",
@@ -16,6 +30,20 @@
       "signupUrl": ""
     },
     {
+      "id": "307",
+      "title": "Sunday Service",
+      "date": "2026-09-27",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
+      "signupUrl": ""
+    },
+    {
       "id": "283",
       "title": "The Ark Toddler Group",
       "date": "2026-09-30",
@@ -27,6 +55,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "314",
+      "title": "The Gathering",
+      "date": "2026-10-04",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
@@ -58,6 +100,20 @@
       "signupUrl": ""
     },
     {
+      "id": "308",
+      "title": "Sunday Service",
+      "date": "2026-10-11",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
+      "signupUrl": ""
+    },
+    {
       "id": "285",
       "title": "The Ark Toddler Group",
       "date": "2026-10-14",
@@ -69,6 +125,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "309",
+      "title": "Sunday Service",
+      "date": "2026-10-18",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
@@ -86,6 +156,20 @@
       "signupUrl": ""
     },
     {
+      "id": "310",
+      "title": "Sunday Service",
+      "date": "2026-10-25",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
+      "signupUrl": ""
+    },
+    {
       "id": "287",
       "title": "The Ark Toddler Group",
       "date": "2026-10-28",
@@ -97,6 +181,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "315",
+      "title": "The Gathering",
+      "date": "2026-11-01",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
@@ -125,6 +223,20 @@
       "categoryLabel": "Church Meeting",
       "categoryColour": "#7950f2",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/295_7wFPmmv9_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "311",
+      "title": "Sunday Service",
+      "date": "2026-11-08",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
@@ -167,6 +279,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "313",
+      "title": "Sunday Service",
+      "date": "2026-11-22",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Community Centre",
+      "description": "",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "",
       "signupUrl": ""
     },
     {
