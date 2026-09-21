@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-09-20T00:00:00Z",
+  "lastUpdated": "2026-09-21T00:00:00Z",
   "events": [
-    {
-      "id": "306",
-      "title": "Sunday Service",
-      "date": "2026-09-20",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "282",
       "title": "The Ark Toddler Group",
