@@ -198,6 +198,20 @@
       "signupUrl": ""
     },
     {
+      "id": "351",
+      "title": "3-2-1",
+      "date": "2026-11-02",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "location": "The Vicarage",
+      "description": "",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "",
+      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/bcgwjucm"
+    },
+    {
       "id": "319",
       "title": "Brick Club",
       "date": "2026-11-03",
@@ -254,6 +268,20 @@
       "signupUrl": ""
     },
     {
+      "id": "352",
+      "title": "3-2-1",
+      "date": "2026-11-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "location": "The Vicarage",
+      "description": "",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "",
+      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/vob67gyi"
+    },
+    {
       "id": "320",
       "title": "Brick Club",
       "date": "2026-11-10",
@@ -296,6 +324,20 @@
       "signupUrl": ""
     },
     {
+      "id": "353",
+      "title": "3-2-1",
+      "date": "2026-11-16",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "location": "The Vicarage",
+      "description": "",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "",
+      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/9o3buhwe"
+    },
+    {
       "id": "321",
       "title": "Brick Club",
       "date": "2026-11-17",
@@ -336,6 +378,20 @@
       "categoryColour": "#15aabf",
       "imageUrl": "",
       "signupUrl": ""
+    },
+    {
+      "id": "354",
+      "title": "3-2-1",
+      "date": "2026-11-23",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "location": "The Vicarage",
+      "description": "",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "",
+      "signupUrl": "https://cecommunitychurch.churchsuite.com/events/vm0kdqmn"
     },
     {
       "id": "322",
