@@ -114,6 +114,20 @@
       "signupUrl": ""
     },
     {
+      "id": "355",
+      "title": "Vicarage Breakfast",
+      "date": "2026-10-17",
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "location": "The Vicarage",
+      "description": "An opportunity to come and hang out at the vicarage and embrace the chaos, with all ages welcome.\n\nDrop in anytime from 9:30am to enjoy a cuppa and a pastry with us as you begin your weekend.",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/355_gh6gEl6U_lg.png",
+      "signupUrl": ""
+    },
+    {
       "id": "309",
       "title": "Sunday Service",
       "date": "2026-10-18",
