@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T00:00:00Z",
+  "lastUpdated": "2026-10-07T00:00:00Z",
   "events": [
-    {
-      "id": "316",
-      "title": "Brick Club",
-      "date": "2026-10-06",
-      "startTime": "15:30",
-      "endTime": "16:30",
-      "location": "Big Sports Hall, Community Centre",
-      "description": "Looking for a fun, affordable way to connect with your kids after school? Bring the whole family to the Big Sports Hall at the Community Centre every Tuesday during term time from 3:30 PM to 4:30 PM!\n\nThis is an interactive group where parents and primary school children (Reception/Year 0 to Year 6) team up!\n\nTogether, we will explore a great Bible story, enjoy some tasty snacks and drinks, and take on epic Lego team-building challenges. Come explore faith, build cool creations, and spend quality time together.",
-      "category": "general",
-      "categoryLabel": "General",
-      "categoryColour": "#062f6a",
-      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/316_xmkdFFx8_lg.png",
-      "signupUrl": ""
-    },
     {
       "id": "284",
       "title": "The Ark Toddler Group",
@@ -503,6 +489,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "326",
+      "title": "Brick Club",
+      "date": "2027-01-05",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "location": "Big Sports Hall, Community Centre",
+      "description": "Looking for a fun, affordable way to connect with your kids after school? Bring the whole family to the Big Sports Hall at the Community Centre every Tuesday during term time from 3:30 PM to 4:30 PM!\n\nThis is an interactive group where parents and primary school children (Reception/Year 0 to Year 6) team up!\n\nTogether, we will explore a great Bible story, enjoy some tasty snacks and drinks, and take on epic Lego team-building challenges. Come explore faith, build cool creations, and spend quality time together.",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/316_xmkdFFx8_lg.png",
       "signupUrl": ""
     }
   ]
