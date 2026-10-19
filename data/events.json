@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T00:00:00Z",
+  "lastUpdated": "2026-10-19T00:00:00Z",
   "events": [
-    {
-      "id": "309",
-      "title": "Sunday Service",
-      "date": "2026-10-18",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "318",
       "title": "Brick Club",
