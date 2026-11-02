@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T00:00:00Z",
+  "lastUpdated": "2026-11-02T00:00:00Z",
   "events": [
-    {
-      "id": "315",
-      "title": "The Gathering",
-      "date": "2026-11-01",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "351",
       "title": "3-2-1",
