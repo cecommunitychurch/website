@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T00:00:00Z",
+  "lastUpdated": "2026-11-09T00:00:00Z",
   "events": [
-    {
-      "id": "311",
-      "title": "Sunday Service",
-      "date": "2026-11-08",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Community Centre",
-      "description": "",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "352",
       "title": "3-2-1",
