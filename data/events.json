@@ -17,7 +17,7 @@
     },
     {
       "id": "275",
-      "title": "Safeguarding Sunday",
+      "title": "Sunday Service",
       "date": "2026-11-15",
       "startTime": "16:00",
       "endTime": "17:30",
@@ -87,7 +87,7 @@
     },
     {
       "id": "313",
-      "title": "Sunday Service",
+      "title": "Safeguarding Sunday",
       "date": "2026-11-22",
       "startTime": "16:00",
       "endTime": "17:30",
@@ -184,6 +184,20 @@
       "signupUrl": ""
     },
     {
+      "id": "358",
+      "title": "Donkey Rides",
+      "date": "2026-12-06",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "location": "The Edge Community Centre",
+      "description": "Ever wondered what it might have been like for Mary on her journey to Bethlehem?\n\nAs part of the Community Centre Christmas Fair, come and enjoy a donkey ride and experience a little of the Christmas story!\n\n£1 per ride, cash only.",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/358_tzoeTkZh_lg.png",
+      "signupUrl": ""
+    },
+    {
       "id": "324",
       "title": "Brick Club",
       "date": "2026-12-08",
@@ -212,6 +226,20 @@
       "signupUrl": ""
     },
     {
+      "id": "359",
+      "title": "Christmas Carols",
+      "date": "2026-12-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": "The Edge Community Centre",
+      "description": "Join us for a fun and interactive carol celebration for the whole family!\n\nSing along to favourite Christmas carols and discover the joy of the Christmas story together.",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/359_jCgmjbOW_lg.png",
+      "signupUrl": ""
+    },
+    {
       "id": "325",
       "title": "Brick Club",
       "date": "2026-12-15",
@@ -237,6 +265,20 @@
       "categoryLabel": "General",
       "categoryColour": "#062f6a",
       "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/281_zpbv35y1_lg.png",
+      "signupUrl": ""
+    },
+    {
+      "id": "360",
+      "title": "Christmas Eve Pyjama Party",
+      "date": "2026-12-24",
+      "startTime": "17:30",
+      "endTime": "18:00",
+      "location": "The Edge Community Centre",
+      "description": "Come cosy in your favourite PJs and get ready for the big day with us!\n\nA short, relaxed 30-minute service for the whole family as we celebrate the joy of Christmas together.",
+      "category": "general",
+      "categoryLabel": "General",
+      "categoryColour": "#062f6a",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/360_BApRFswD_lg.png",
       "signupUrl": ""
     },
     {
