@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-11-15T00:00:00Z",
+  "lastUpdated": "2026-11-16T00:00:00Z",
   "events": [
-    {
-      "id": "275",
-      "title": "Sunday Service",
-      "date": "2026-11-15",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Coopers Edge Community Centre",
-      "description": "",
-      "category": "sunday",
-      "categoryLabel": "Sunday Service",
-      "categoryColour": "#15aabf",
-      "imageUrl": "",
-      "signupUrl": ""
-    },
     {
       "id": "353",
       "title": "3-2-1",
