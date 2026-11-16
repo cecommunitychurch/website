@@ -240,6 +240,20 @@
       "signupUrl": ""
     },
     {
+      "id": "361",
+      "title": "Baptism Sunday",
+      "date": "2026-12-20",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "The Edge Community Centre",
+      "description": "Join us for our Sunday service!\n\nFellowship, worship, teaching, and Coopers Kids - all followed by a sandwich tea together.\n\nThis week is extra special as we celebrate and witness baptisms.",
+      "category": "sunday",
+      "categoryLabel": "Sunday Service",
+      "categoryColour": "#15aabf",
+      "imageUrl": "https://cdn.churchsuite.com/LgX8dGu6/calendar/events/361_cWcnfhYs_lg.png",
+      "signupUrl": ""
+    },
+    {
       "id": "360",
       "title": "Christmas Eve Pyjama Party",
       "date": "2026-12-24",
